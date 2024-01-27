@@ -1,0 +1,43 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.a
+{
+  width: 100vw;
+  background-color: bisque;
+  height: 30vh;
+}
+.b
+{
+  width: 100vw;
+  background-color: rgb(205, 129, 35);
+  height: 30vh;
+}
+.c
+{
+  width: 100vw;
+  background-color: rgb(229, 55, 16);
+  height: 30vh;
+}
+
+.main
+{
+  position: relative;
+}
+.arrow
+{
+  position: absolute;
+  top: 13%;
+  cursor: pointer;
+}
+.right
+{
+ right: 0%
+}
+.slide
+{
+  display: none;
+}
